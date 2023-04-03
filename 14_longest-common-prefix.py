@@ -15,8 +15,8 @@ class Solution:
 
 
 
-exemple = Solution()
-res = exemple.longestCommonPrefix(["flower", "flow", "flight"])
+example = Solution()
+res = example.longestCommonPrefix(["flower", "flow", "flight"])
 
 print(res)
 

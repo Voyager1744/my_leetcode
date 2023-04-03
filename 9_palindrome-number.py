@@ -11,7 +11,7 @@ class Solution:
         return rev == orig
 
 
-exemple = Solution()
-res = exemple.isPalindrome(10015001)
+example = Solution()
+res = example.isPalindrome(10015001)
 
 print(res)

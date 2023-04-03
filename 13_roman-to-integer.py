@@ -27,7 +27,7 @@ class Solution:
         return number
 
 
-exemple = Solution()
-res = exemple.romanToInt('MCMXCIV')
+example = Solution()
+res = example.romanToInt('MCMXCIV')
 
 print(res)

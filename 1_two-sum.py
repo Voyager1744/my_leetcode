@@ -16,7 +16,7 @@ class Solution:
             hash[nums[i]] = i
 
 
-exemple = Solution()
-res = exemple.twoSum([3, 2, 4, 7], 6)
+example = Solution()
+res = example.twoSum([3, 2, 4, 7], 6)
 
 print(res)
